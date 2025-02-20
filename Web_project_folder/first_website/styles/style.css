@@ -1,0 +1,61 @@
+p {
+    color: #400447;
+    width: 600px;
+    
+  }
+  
+  html {
+    font-size: 15px; /* px means "pixels": the base font size is now 15 pixels high */
+    font-family:
+      "Silkscreen", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+  }
+
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p {
+    color: #FEE9CE;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 0.5px;
+    
+  }
+  li {
+    color: #FEE9CE;
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 0.5px;
+    
+
+  }
+
+  h1 {
+    color:#FEE9CE;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 3px 3px 1px black;
+     
+  }
+  html {
+    background-color: #2E3061;
+  }
+  
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #555184;
+    padding: 0 20px 20px 20px;
+    border: 5px solid #28293D;
+  }
+  
+  
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    border: 5px solid #28293D;
+  
+  }
+  
